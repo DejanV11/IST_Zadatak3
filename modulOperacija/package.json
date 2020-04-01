@@ -1,0 +1,22 @@
+{
+  "name": "nrt6117.zadatak1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DejanV11/IST_Zadatak3.git"
+  },
+  "author": "Dejan Vasiljevic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DejanV11/IST_Zadatak3/issues"
+  },
+  "homepage": "https://github.com/DejanV11/IST_Zadatak3#readme",
+  "dependencies": {
+    "mathjs": "^6.6.2"
+  }
+}
